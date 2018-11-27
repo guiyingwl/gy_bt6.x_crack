@@ -5,7 +5,7 @@ Error="${Red_font}[Error]${Font_suffix}"
 Important="${Red_font}[选择前须知:]${Font_suffix}"
 PANEL_DIR=/www/server/panel
 PLUGIN_RETURN=在面板安装插件完成之后，从下表选择你要破解的插件:
-MAIN_RETURN=${Red_font}[宝塔面板v6.1.2破解脚本]${Font_suffix}
+MAIN_RETURN=${Red_font}[宝塔面板v6.x破解脚本]${Font_suffix}
 
 git_check(){
 	GIT_V=`git --version | grep -q version`
@@ -190,13 +190,13 @@ main(){
 clear
 echo -e "${Green_font}
 #=======================================
-# Name:         bt-6.1-crack
-# Project:      https://git.io/fxiwt
-# requirement:  bt v6.1 free version
-# Version:      0.0.1
-# Author:       madlifer
-# Thanks:       @king51
-# Copyright:    https://madevo.net
+# Name:         Bt-6.x-Crack 由鬼影提供
+# Project:      Bt-6.x-Crack
+# requirement:  Bt v6.X free version
+# Version:      Bt-6.x-Crack
+# Author:       @GuiYing
+# Thanks:       QQ群：218647666
+# Copyright:    www.china-hacker.cn
 #=======================================
 ${Font_suffix}"
 
