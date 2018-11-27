@@ -68,7 +68,7 @@ install_bt_panel_pro(){
 }
 
 get_crack_file(){
-	git clone https://github.com/madlifer/btpanelv6.1_crack.git
+	git clone https://github.com/guiyingwl/gy_bt6.x_crack.git
 }
 
 copy_class_file(){
